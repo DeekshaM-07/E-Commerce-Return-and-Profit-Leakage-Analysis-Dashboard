@@ -130,7 +130,7 @@ Highlights **specific products responsible for the highest revenue loss due to r
 
 ### 📊 Main Dashboard
 
-*(Insert your dashboard screenshot here)*
+![Dashboard Preview](Dashboard_main.png)
 
 ---
 
